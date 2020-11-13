@@ -1,0 +1,13 @@
+C:\Users\dev\Desktop\aumento\bin\Debug\netcoreapp3.1\aumento.exe
+C:\Users\dev\Desktop\aumento\bin\Debug\netcoreapp3.1\aumento.deps.json
+C:\Users\dev\Desktop\aumento\bin\Debug\netcoreapp3.1\aumento.runtimeconfig.json
+C:\Users\dev\Desktop\aumento\bin\Debug\netcoreapp3.1\aumento.runtimeconfig.dev.json
+C:\Users\dev\Desktop\aumento\bin\Debug\netcoreapp3.1\aumento.dll
+C:\Users\dev\Desktop\aumento\bin\Debug\netcoreapp3.1\aumento.pdb
+C:\Users\dev\Desktop\aumento\obj\Debug\netcoreapp3.1\aumento.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\aumento\obj\Debug\netcoreapp3.1\aumento.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\aumento\obj\Debug\netcoreapp3.1\aumento.AssemblyInfo.cs
+C:\Users\dev\Desktop\aumento\obj\Debug\netcoreapp3.1\aumento.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\aumento\obj\Debug\netcoreapp3.1\aumento.dll
+C:\Users\dev\Desktop\aumento\obj\Debug\netcoreapp3.1\aumento.pdb
+C:\Users\dev\Desktop\aumento\obj\Debug\netcoreapp3.1\aumento.genruntimeconfig.cache
